@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= '6hKuStQ2gNoci3CUYx8NK2hxhh4msmWyPPgH7Tw5b2NBexfA', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [14453,99441], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [1445399441], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'SJSU Health App - Jeff M. and Shafayat H.', // Replaces Xively logo in the header
 		dataDuration	= '6hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
